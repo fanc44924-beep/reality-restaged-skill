@@ -1,0 +1,4 @@
+interface:
+  display_name: Reality Restaged
+  short_description: Auto-route photos into editorial art styles
+  default_prompt: Use the reality-restaged style router to transform this image.
